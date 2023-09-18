@@ -18,3 +18,5 @@ Blanchardian finding out his own data doesn't support the typology:
 [1](https://archive.is/v9MI9) [2](https://archive.is/09VKN)
 
 [3](https://archive.is/JiAVq) [4](https://archive.is/XVt6o)
+
+Don't focus too much on that nonsense. 
