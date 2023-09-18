@@ -1,0 +1,26 @@
+title: Guides To Transmaxxing
+description: Guides to help with transitioning
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-relative-links
+  - jemoji
+
+relative_links:
+  enabled: true
+  collections: true
+
+callouts:
+  highlight:
+    color: purple
+    opacity: 0.3
+
+# External navigation links
+nav_external_links:
+  - title: Transmaxxing Manifesto
+    url: "https://archive.org/details/transmaxxing13"
+  - title: YouTube Channel
+    url: "https://www.youtube.com/@transmaxxing"
+  - title: Discord Community
+    url: "https://discord.gg/yMz526STW8"
+
+#footer_content: "<a href=\"https://github.com/transmaxxing/transmaxxing.github.io/discussions\">Help Improve This Info!</a>"
